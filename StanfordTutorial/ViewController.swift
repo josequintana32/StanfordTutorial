@@ -66,11 +66,6 @@ class ViewController: UIViewController {
         
         return emojiDictionary[card.identifier] ?? "?"
     }
-    
-    @IBAction func startNewGame(_ sender: UIButton) {
-        flipCount = 0
-    }
-    
 }
 
  
