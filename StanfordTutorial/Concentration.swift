@@ -43,8 +43,4 @@ class Concentration {
         
         cards.shuffle()
     }
-    
-    func newGame() {
-        cards
-    }
 }
